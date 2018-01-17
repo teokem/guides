@@ -6,22 +6,21 @@ Instructions for setting up new macOS system at teokem; please follow in the pre
 
 1. Power on the laptop and follow instructions for creating a user account.
 
-2. When asked, also create an iCloud account if you do not already
+2. When asked, create an iCloud account if you do not already
    have one. This is required to install i.e. Apple's developer tools.
 
 3. Once the initial setting up is finished, go to "App Store" (top-left corner)
    and install all updates showing up in the "Update" section.
 
 4. Go to system preferences, then "Software update" and allow automatic
-   upgrades.
+   upgrades (or as a minimum allow security updates).
 
 ## Microsoft Office Apps
 
 1. Go to https://www.office.com and sign in using your university email.
    You will be prompted to enter LUCAT credentials and thereafter
    taken to "Office 365" which is Microsoft's online version of office.
-   Navigate to "Install Office Apps" and download.
-   Once downloaded (to the "Downloads" folder), double-click and install.
+   Navigate to "Install Office Apps", download and install.
 
 2. Once installed, accept all software updates if any, and also allow
    office to automatically download updates.
@@ -52,8 +51,7 @@ chmod a+x ./Miniconda3-latest-MacOSX-x86_64.sh # make executable
 
 ## LaTeX typesetting
 
-1. Go to http://www.tug.org/mactex and click "Download MacTeX", the
-  double-click and install.
+1. Go to http://www.tug.org/mactex and follow the link "Download MacTeX"
 
 ## Xquartz Windows manager (X11)
 
@@ -78,7 +76,7 @@ Macports is a package manager for installing unix command line tools and require
 
 ## Cloud storage and backup: Box/Dropbox
 
-Box and Dropbox provide very similar services for online storage and both have free options. In particular, all LU employees have 20 GB of free storage on Box which is also the only of the two that is security approved by the university.
+Box and Dropbox provide similar services for online storage and both have free options. In particular, all LU employees have 20 GB of free storage on Box which is also the only of the two that is security approved by the university.
 
 1. Download "Box sync" from https://sites.box.com/sync4 and once installed, login using your university email/LUCAT credentials (no need to create an account)
 
