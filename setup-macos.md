@@ -30,13 +30,14 @@ Instructions for setting up new macOS system at teokem; please follow in the pre
 This is needed to further install compilers (C++, fortran etc.) and a large
 variety of UNIX command line tools.
 
-1. Install Xcode from the App Store (top-left corner in Finder)
+1. Install Xcode from the App Store (top-left corner in Finder) and wait for it to finish (may take a while!)
 
 2. Open a Terminal (`Applications/Utilities/Terminal.app`) and enter
-   the following
+   the following which will download and install additional tools:
    ~~~ bash
    xcode-select --install
    ~~~
+
 3. Open Xcode (`Applications/Xcode.app`) and accept the licence agreement.
 
 ## Python
