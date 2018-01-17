@@ -1,3 +1,6 @@
 # Guides
 
-1. [Setting up a setup new macOS system](setup-macos.md)
+## Computer setup
+
+1. [Setting up macOS](setup-macos.md)
+
