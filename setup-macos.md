@@ -1,6 +1,6 @@
-# Setting up Mac laptops
+# Setting up new macs
 
-Instructions for setting up new mac laptops at teokem; please follow in the presented order.
+Instructions for setting up new macOS system at teokem; please follow in the presented order.
 
 ## Basic setup and updating
 
@@ -40,9 +40,14 @@ variety of UNIX command line tools.
    ~~~
 3. Open Xcode (`Applications/Xcode.app`) and accept the licence agreement.
 
+## Matlab, Maple, Comsol etc.
+
+LU have license to a number of tools. Login and download using LUCAT credentials at
+http://program.ddg.lth.se
+
 ## Python
 
-Python is already installed on macOS or via macports (see below). However, a very convenient way of managing packages and environments is via _Anaconda_.
+Python is already installed on macOS or via macports (see below). However, a convenient way of managing packages and environments is via _Anaconda_.
 Download from https://conda.io/miniconda.html (Python 3+, 64-bit) and install from a Terminal:
 
 ~~~ bash
