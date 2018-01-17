@@ -40,11 +40,6 @@ variety of UNIX command line tools.
    ~~~
 3. Open Xcode (`Applications/Xcode.app`) and accept the licence agreement.
 
-## Matlab, Maple, Comsol etc.
-
-LU have license to a number of tools. Login and download using LUCAT credentials at
-http://program.ddg.lth.se
-
 ## Python
 
 Python is already installed on macOS or via macports (see below). However, a convenient way of managing packages and environments is via _Anaconda_.
@@ -86,6 +81,10 @@ Macports is a package manager for installing unix command line tools and require
 Box and Dropbox provide very similar services for online storage and both have free options. In particular, all LU employees have 20 GB of free storage on Box which is also the only of the two that is security approved by the university.
 
 1. Download "Box sync" from https://sites.box.com/sync4 and once installed, login using your university email/LUCAT credentials (no need to create an account)
+
+## Free access to Matlab, Maple, Comsol etc.
+
+Login and download using LUCAT credentials at http://program.ddg.lth.se
 
 ## Printers, Time Machine etc.
 
