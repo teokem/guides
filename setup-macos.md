@@ -87,7 +87,7 @@ Login and download using LUCAT credentials at http://program.ddg.lth.se
 
 ## Printers
 
-### Canon Image Runner (2nd floor)
+### Canon Image Runner C5560i (2nd floor)
 
 1. Download and install [drivers](https://www.canon.co.uk/support/products/imagerunner/imagerunner-advance-c5560i.aspx?type=drivers&os=MAC%20OS%20X).
 
