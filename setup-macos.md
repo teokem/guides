@@ -97,9 +97,10 @@ Login and download using LUCAT credentials at http://program.ddg.lth.se
 
 3. Add-ons: High capacity casette, feed unit-a1, stable finisher-Y1
 
-### LaserJet 500 (3rd floor)
+### HP LaserJet 500 (3rd floor)
 
-1. Make sure you're logged into Apple App Store (top left corner menu item in Finder)
+1. Make sure you're logged into Apple App Store (top left corner menu item in Finder) using your Apple ID.
+   This step may be required for system preferences to automatically download the required drivers.
 
 2. Add manually in manually in System Preferences->Printers->Address:
 
