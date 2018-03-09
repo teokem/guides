@@ -105,6 +105,8 @@ Login and download using LUCAT credentials at http://program.ddg.lth.se
 2. Add manually in manually in System Preferences->Printers->Address:
 
        http://130.235.1.116 (HP JetDirect)
+       
+3. Add-ons: Duplex unit (twosided printing)
 
 # Backup and more help?
 
