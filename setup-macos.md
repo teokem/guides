@@ -85,6 +85,26 @@ Box and Dropbox provide similar services for online storage and both have free o
 
 Login and download using LUCAT credentials at http://program.ddg.lth.se
 
-## Printers, Time Machine etc.
+## Printers
 
-Once the above is complete, contact M.L. and get help with setting up printers, network backup to Time Machine, ethernet access (if needed) etc.
+### Canon Image Runner (2nd floor)
+
+1. Download and install [drivers](https://www.canon.co.uk/support/products/imagerunner/imagerunner-advance-c5560i.aspx?type=drivers&os=MAC%20OS%20X).
+
+2. Add manually in System Preferences->Printers->Address:
+
+       socket://130.235.71.66:9100 (socket/jetdirect)
+
+3. Add-ons: High capacity casette, feed unit-a1, stable finisher-Y1
+
+### LaserJet 500 (3rd floor)
+
+1. Make sure you're logged into Apple App Store (top left corner menu item in Finder)
+
+2. Add manually in manually in System Preferences->Printers->Address:
+
+       http://130.235.1.116 (HP JetDirect)
+
+# Backup and more help?
+
+Once the above is complete, contact M.L. if you need to backup to Time Machine, wired ethernet access etc.
