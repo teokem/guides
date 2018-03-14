@@ -47,7 +47,7 @@ Download from https://conda.io/miniconda.html (Python 3+, 64-bit) and install fr
 
 ~~~ bash
 chmod a+x ./Miniconda3-latest-MacOSX-x86_64.sh # make executable
-./Miniconda3-latest-MacOSX-x86_64.sh # start; follow instatruction
+./Miniconda3-latest-MacOSX-x86_64.sh # start; follow instructions.
 ~~~
 
 ## LaTeX typesetting
@@ -108,6 +108,12 @@ Login and download using LUCAT credentials at http://program.ddg.lth.se
        
 3. Add-ons: Duplex unit (twosided printing)
 
-# Backup and more help?
+## Backup
+
+1. First of all, use Box or Dropbox as described above. This gives version control, possibility to share folders, and is an additional layer of safety.
+
+2. At teokem we have a network disk for use with Apple's time-machine. Contact ML for more info.
+
+## More help?
 
 Once the above is complete, contact M.L. if you need to backup to Time Machine, wired ethernet access etc.
