@@ -7,7 +7,7 @@ Instructions for setting up new macOS system at teokem; please follow in the pre
 1. Power on the laptop and follow instructions for creating a user account.
 
 2. When asked, create an iCloud account if you do not already
-   have one. This is required to install i.e. Apple's developer tools.
+   have one. This is required to install _i.e._ Apple's developer tools etc.
 
 3. Once the initial setting up is finished, go to "App Store" (top-left corner)
    and install all updates showing up in the "Update" section.
