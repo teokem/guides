@@ -77,6 +77,11 @@ Macports is a package manager for installing unix command line tools and require
 
 ## Cloud storage and backup: Box/Dropbox
 
+1. Login to Box with LUCAT credentials from https://lu.account.box.com/login
+2. Navigate to the "Apps" menu (top, right corner); then look for "Get Box Sync"
+3. Download, install, then open Box Sync.
+4. Login with
+
 Box and Dropbox provide similar services for online storage and both have free options. In particular, all LU employees have 20 GB of free storage on Box which is also the only of the two that is security approved by the university.
 
 1. Download "Box sync" from https://sites.box.com/sync4 and once installed, login using your university email/LUCAT credentials (no need to create an account)
