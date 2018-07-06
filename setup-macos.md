@@ -77,7 +77,7 @@ Macports is a package manager for installing unix command line tools and require
 
 ## Cloud storage and backup:
 
-Box is a service very similar to DropBox for online storage. All LU employees have by default 20 GB of free storage on Box and the service is security approved by the university (_Dropbox is not_). If you need to expand the disk space, simply call LDC service desk (phone 29000) and give them your LUCAT id and the space you need. For laptops, it makes no sense to expand the capacity with more than the laptop disk, i.e. typically 128 or 256 GB.
+Box is a service very similar to DropBox for online storage. By default LU employees have 20 GB of free storage and the service is security approved by the university (_Dropbox is not_). If you need to expand the disk space, simply call LDC service desk (phone 29000) and give them your LUCAT id and the space you need. For laptops, it makes no sense to expand the capacity with more than the laptop disk size, i.e. typically 128 or 256 GB.
 
 To get started with Box:
 
@@ -85,6 +85,10 @@ To get started with Box:
 2. Navigate to the "Apps" menu (top, right corner); then look for "Get Box Sync"
 3. Download, install, then open Box Sync.
 4. Login with your university email and follow the instructions.
+
+Once installed, you will have a new folder called "Box Sync" in your top-level user directory. All files placed here will be automatically synced to Box and _vice versa_. For example, you could install Box Sync on multiple computers and they will all be synched automatically. From the Box website you have access to version history of your files as well as the possibility to restore deleted files.
+
+Finally, Box integrates very well with Microsoft's Office 360 (see above) and you can edit Word, Excell files etc. on Box directly from a web-browser without any additional software installed. 
 
 ## Free access to Matlab, Maple, Comsol etc.
 
