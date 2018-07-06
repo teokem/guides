@@ -75,16 +75,16 @@ Macports is a package manager for installing unix command line tools and require
    sudo port install coreutils grace gawk wget cmake vim
    ~~~
 
-## Cloud storage and backup: Box/Dropbox
+## Cloud storage and backup:
+
+Box is a service very similar to DropBox for online storage. All LU employees have by default 20 GB of free storage on Box and the service is security approved by the university (_Dropbox is not_). If you need to expand the disk space, simply call LDC service desk (phone 29000) and give them your LUCAT id and the space you need. For laptops, it makes no sense to expand the capacity with more than the laptop disk, i.e. typically 128 or 256 GB.
+
+To get started with Box:
 
 1. Login to Box with LUCAT credentials from https://lu.account.box.com/login
 2. Navigate to the "Apps" menu (top, right corner); then look for "Get Box Sync"
 3. Download, install, then open Box Sync.
-4. Login with
-
-Box and Dropbox provide similar services for online storage and both have free options. In particular, all LU employees have 20 GB of free storage on Box which is also the only of the two that is security approved by the university.
-
-1. Download "Box sync" from https://sites.box.com/sync4 and once installed, login using your university email/LUCAT credentials (no need to create an account)
+4. Login with your university email and follow the instructions.
 
 ## Free access to Matlab, Maple, Comsol etc.
 
@@ -92,15 +92,9 @@ Login and download using LUCAT credentials at http://program.ddg.lth.se
 
 ## Printers
 
-### Canon Image Runner C5560i (2nd floor)
+### General printing at LU
 
-1. Download and install [drivers](https://www.canon.co.uk/support/products/imagerunner/imagerunner-advance-c5560i.aspx?type=drivers&os=MAC%20OS%20X).
-
-2. Add manually in System Preferences->Printers->Address:
-
-       socket://130.235.71.66:9100 (socket/jetdirect)
-
-3. Add-ons: High capacity casette, feed unit-a1, stable finisher-Y1
+The large Canon printer on 2nd floor, shared between physical chemistry and theoretical chemistry, can be used only through the LU printing system PaperCut [(instructions here)](http://www.print.lu.se/english/papercut/). For every print you will need to use your access card at the printer. Employed staff pay no charge.
 
 ### HP LaserJet 500 (3rd floor)
 
@@ -115,9 +109,9 @@ Login and download using LUCAT credentials at http://program.ddg.lth.se
 
 ## Backup
 
-1. First of all, use Box or Dropbox as described above. This gives version control, possibility to share folders, and is an additional layer of safety.
+1. First of all, use Box as described above. This gives version control, possibility to share folders, and is an additional layer of safety.
 
-2. At teokem we have a network disk for use with Apple's time-machine. Contact ML for more info.
+
 
 ## More help?
 
