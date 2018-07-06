@@ -1,10 +1,10 @@
-# Setting up new macs
+# INSTRUCTIONS FOR SETTING UP COMPUTERS
 
 Instructions for setting up new macOS system at teokem; please follow in the presented order.
 
 ## Basic setup and updating
 
-1. Power on the laptop and follow instructions for creating a user account.
+1. Power on the laptop and follow instructions for creating a user account. You should connect to the internet through Eduroam, using your LUCAT id.
 
 2. When asked, create an iCloud account if you do not already
    have one. This is required to install _i.e._ Apple's developer tools etc.
@@ -82,13 +82,13 @@ Box is a service very similar to DropBox for online storage. By default LU emplo
 To get started with Box:
 
 1. Login to Box with LUCAT credentials from https://lu.account.box.com/login
-2. Navigate to the "Apps" menu (top, right corner); then look for "Get Box Sync"
+2. Navigate to the "Apps" menu (top, right corner); then look for "Box Sync for Mac". Alternatively, this [link](https://app.box.com/settings/sync) may take you there directly.
 3. Download, install, then open Box Sync.
 4. Login with your university email and follow the instructions.
 
 Once installed, you will have a new folder called "Box Sync" in your top-level user directory. All files placed here will be automatically synced to Box and _vice versa_. For example, you could install Box Sync on multiple computers and they will all be synched automatically. From the Box website you have access to version history of your files as well as the possibility to restore deleted files.
 
-Finally, Box integrates very well with Microsoft's Office 360 (see above) and you can edit Word, Excell files etc. on Box directly from a web-browser without any additional software installed. 
+Finally, Box integrates with Microsoft's Office 360 (see above) and you can edit Word, Excell files etc. on Box directly from a web-browser without any additional software installed (for example from Linux). 
 
 ## Free access to Matlab, Maple, Comsol etc.
 
@@ -111,12 +111,6 @@ The large Canon printer on 2nd floor, shared between physical chemistry and theo
        
 3. Add-ons: Duplex unit (twosided printing)
 
-## Backup
-
-1. First of all, use Box as described above. This gives version control, possibility to share folders, and is an additional layer of safety.
-
-
-
 ## More help?
 
-Once the above is complete, contact M.L. if you need to backup to Time Machine, wired ethernet access etc.
+Once the above is complete, contact M.L. if you need additional help.
