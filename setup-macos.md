@@ -4,7 +4,7 @@ Instructions for setting up new macOS system at teokem; please follow in the pre
 
 ## Basic setup and updating
 
-1. Power on the laptop and follow instructions for creating a user account. You should connect to the internet through Eduroam, using your LUCAT id.
+1. Power on the laptop and follow instructions for creating a user account. You should connect to the internet through Eduroam, using your LUCAT id (remember to end your id with `@lu.se` which will allow you to connect from most universities in the World).
 
 2. When asked, create an iCloud account if you do not already
    have one. This is required to install _i.e._ Apple's developer tools etc.
