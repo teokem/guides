@@ -60,9 +60,19 @@ If you plan to use unix tools, MacPorts for example (see below), it is advised
 to install an X11 windows manager. Go to https://www.xquartz.org and
 download and install.
 
-## MacPorts package manager
+## Homebrew package manager
 
-Macports is a package manager for installing unix command line tools and require Xcode (see above).
+Homebrew is other package manager for installing unix command line tools and require Xcode (see above).
+
+1. Install by running a single command line, pasted from the Homebrew frontpage, https://brew.sh
+
+2. Search and install for packages using `brew search <package>` and `brew install <package>
+
+Brew can also be used to install MacOS applications such as Firefox, Skype, Spotify etc.
+
+### (MacPorts package manager)
+
+As an alternative to brew, you may use macports which require Xcode (see above).
 
 1. Go to https://www.macports.org/install.php and download to version
    matching your macOS version. Double-click in the installer.
