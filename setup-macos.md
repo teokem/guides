@@ -7,7 +7,7 @@ Instructions for setting up new macOS system at teokem; please follow in the pre
 1. Power on the laptop and follow instructions for creating a user account. You should connect to the internet through Eduroam, using your LUCAT id (remember to end your id with `@lu.se` which will allow you to connect from most universities in the World).
 
 2. When asked, create an iCloud account if you do not already
-   have one. This is required to install _i.e._ Apple's developer tools etc. If you are forced to enter a credet card number, you can be remove it later.
+   have one. This is required to install _e.g._ Apple's developer tools etc. You may be forced to enter a credit card number, but you can be remove it later.
 
 3. Once the initial setting up is finished, go to "App Store" (top-left corner)
    and install all updates showing up in the "Update" section.
@@ -40,26 +40,6 @@ variety of UNIX command line tools.
 
 3. Open Xcode (`Applications/Xcode.app`) and accept the licence agreement.
 
-## Python
-
-Python is already installed on macOS or via macports (see below). However, a convenient way of managing packages and environments is via _Anaconda_.
-Download from https://conda.io/miniconda.html (Python 3+, 64-bit) and install from a Terminal:
-
-~~~ bash
-chmod a+x ./Miniconda3-latest-MacOSX-x86_64.sh # make executable
-./Miniconda3-latest-MacOSX-x86_64.sh # start; follow instructions.
-~~~
-
-## LaTeX typesetting
-
-1. Go to http://www.tug.org/mactex and follow the link "Download MacTeX"
-
-## Xquartz Windows manager (X11)
-
-If you plan to use unix tools, MacPorts for example (see below), it is advised
-to install an X11 windows manager. Go to https://www.xquartz.org and
-download and install.
-
 ## Homebrew package manager
 
 Homebrew is other package manager for installing unix command line tools and require Xcode (see above).
@@ -69,21 +49,28 @@ Homebrew is other package manager for installing unix command line tools and req
 2. Search and install for packages using `brew search <package>` and `brew install <package>
 
 Brew can also be used to install MacOS applications such as Firefox, Skype, Spotify etc.
+Some examples which will install a C++ compiler, XMGrace, LaTeX, Firefox, X11, Anaconda:
 
-### (MacPorts package manager)
+~~~ bash
+brew install gcc grace coreutils
+brew cask install mactex xquartz firefox miniconda
+~~~
 
-As an alternative to brew, you may use macports which require Xcode (see above).
+## Python
 
-1. Go to https://www.macports.org/install.php and download to version
-   matching your macOS version. Double-click in the installer.
+Python is already installed on macOS, but a convenient way of managing packages and environments is via _Anaconda_.
+Install via `brew` as shown above, or download from https://conda.io/miniconda.html (Python 3+, 64-bit) and install from a Terminal:
 
-2. One installed, you may search for and install tools from a Terminal.
-   For example:
-   ~~~ bash
-   port search grace
-   sudo port install grace
-   sudo port install coreutils grace gawk wget cmake vim
-   ~~~
+~~~ bash
+chmod a+x ./Miniconda3-latest-MacOSX-x86_64.sh # make executable
+./Miniconda3-latest-MacOSX-x86_64.sh # start; follow instructions.
+~~~
+
+You may now install packages like this:
+
+~~~ bash
+conda install notebook jupyter matplotlib scipy pandas
+~~~
 
 ## Cloud storage and backup:
 
