@@ -4,7 +4,7 @@ Instructions for setting up new macOS system at teokem; please follow in the pre
 
 ## Basic setup and updating
 
-1. Power on the laptop and follow instructions for creating a user account. You should connect to the internet through Eduroam, using your LUCAT id (remember to end your id with `@lu.se` which will allow you to connect from most universities in the World).
+1. Power on the laptop and follow instructions for creating a user account. You should connect to the internet through Eduroam, using your LUCAT id (remember to end your id with `@lu.se` which enables you to connect from most universities in the World).
 
 2. When asked, create an iCloud account if you do not already
    have one. This is required to install _e.g._ Apple's developer tools etc. You may be forced to enter a credit card number, but you can be remove it later.
@@ -14,6 +14,12 @@ Instructions for setting up new macOS system at teokem; please follow in the pre
 
 4. Go to system preferences, then "Software update" and allow automatic
    upgrades (or as a minimum allow security updates).
+   
+5. For laptops it's a good idea to encrypt your user data in case it gets stolen. Enable this in System Preferences -->
+   Security & Privacy --> FileVault.
+   
+6. You may want to disable Apple's file version control which tend to take up space.
+   Go to System Preferences --> General and tick (☑) "Ask to keep changes when closing documents"
 
 ## Microsoft Office Apps
 
@@ -46,14 +52,14 @@ Homebrew is other package manager for installing unix command line tools and req
 
 1. Install by running a single command line, pasted from the Homebrew frontpage, https://brew.sh
 
-2. Search and install for packages using `brew search <package>` and `brew install <package>
+2. Search and install for packages using `brew search <package>` and `brew install <package>`
 
 Brew can also be used to install MacOS applications such as Firefox, Skype, Spotify etc.
-Some examples which will install a C++ compiler, XMGrace, LaTeX, Firefox, X11, Anaconda:
+Some examples which will install a C++ compiler, XMGrace, LaTeX, Firefox, X11:
 
 ~~~ bash
 brew install gcc grace coreutils
-brew cask install mactex xquartz firefox miniconda
+brew cask install mactex firefox, xquartz
 ~~~
 
 ## Python
