@@ -19,7 +19,7 @@ Instructions for setting up new macOS system at teokem; please follow in the pre
    Security & Privacy --> FileVault.
    
 6. You may want to disable Apple's file version control which tend to take up space.
-   Go to System Preferences --> General and tick (☑) "Ask to keep changes when closing documents"
+   Go to System Preferences --> General and tick (☑) _Ask to keep changes when closing documents_.
 
 ## Microsoft Office Apps
 
@@ -55,11 +55,11 @@ Homebrew is other package manager for installing unix command line tools and req
 2. Search and install for packages using `brew search <package>` and `brew install <package>`
 
 Brew can also be used to install MacOS applications such as Firefox, Skype, Spotify etc.
-Some examples which will install a C++ compiler, XMGrace, LaTeX, Firefox, X11:
+Some examples which will install a C++ compiler, XMGrace, LaTeX, Firefox, X11, Zoom
 
 ~~~ bash
 brew install gcc grace coreutils
-brew cask install mactex firefox, xquartz
+brew cask install mactex firefox, xquartz zoomus
 ~~~
 
 ## Python
