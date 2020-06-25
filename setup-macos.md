@@ -26,7 +26,7 @@ Instructions for setting up new macOS system at teokem; please follow in the pre
 1. Go to https://www.office.com and sign in using your university email.
    You will be prompted to enter LUCAT credentials and thereafter
    taken to "Office 365" which is Microsoft's online version of office.
-   Navigate to "Install Office Apps", download and install.
+   Navigate to "Install Office Apps" (usually in top right corner), download and install.
 
 2. Once installed, accept all software updates if any, and also allow
    office to automatically download updates.
