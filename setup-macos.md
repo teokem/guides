@@ -48,7 +48,7 @@ variety of UNIX command line tools.
 
 ## Homebrew package manager
 
-Homebrew is other package manager for installing unix command line tools and require Xcode (see above).
+Homebrew is a package manager for installing unix command line tools and require Xcode (see above).
 
 1. Install by running a single command line, pasted from the Homebrew frontpage, https://brew.sh
 
@@ -59,7 +59,7 @@ Some examples which will install a C++ compiler, XMGrace, LaTeX, Firefox, X11, Z
 
 ~~~ bash
 brew install gcc grace coreutils
-brew cask install mactex firefox, xquartz zoomus
+brew cask install gfortran mactex firefox xquartz zoomus
 ~~~
 
 ## Python
