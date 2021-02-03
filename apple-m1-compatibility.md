@@ -1,6 +1,6 @@
 # Apple M1 Compatibility
 
-List of tested software on Apple M1. If not otherwise stated, all application run native ARM code
+List of tested software on Apple M1. If not otherwise stated, all application run native ARM code. Intel applications are silently emulated and a user will not notice this, except if it is very demanding computation.
 
 - [x] Microsoft office
 - [x] Anaconda (emulated)
@@ -11,3 +11,4 @@ List of tested software on Apple M1. If not otherwise stated, all application ru
 - [x] Box Sync (emulated)
 - [x] Faunus simulation software
 - [x] Apple software (Final cut, compressor, motion, keynote etc.)
+- [x] Browsers: Safari, Firefox, Brave
