@@ -4,7 +4,7 @@ List of tested software on Apple M1. If not otherwise stated, all application ru
 
 - [x] Microsoft office
 - [x] Anaconda (emulated)
-- [x] Homebrew
+- [x] Homebrew (x11, xmgrace, c++ compilers, emacs etc)
 - [x] MacTex (emulated, port on it's way)
 - [x] gfortran
 - [ ] Box Drive
