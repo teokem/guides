@@ -4,7 +4,7 @@ List of tested software on Apple M1. If not otherwise stated, all applications r
 
 - [x] Microsoft office
 - [x] Zoom (`brew install --cask zoom`)
-- [x] Miniconda (x86)
+- [x] Miniconda (x86. All packages installed will be run through Rosetta as no arm/m1 version is available. So far I have found no problems with this)
 - [x] Homebrew (x11, xmgrace, c++ compilers, emacs etc)
 - [x] MacTex (x86, port on it's way)
 - [x] gfortran (`brew install gcc`. May require `xcode-build --install` between MacOS updates)
