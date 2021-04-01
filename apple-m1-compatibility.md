@@ -8,7 +8,7 @@ List of tested software on Apple M1. If not otherwise stated, all applications r
 - [x] Homebrew (x11, xmgrace, c++ compilers, emacs etc)
 - [x] MacTex (x86, port on it's way)
 - [x] gfortran (`brew install gcc`. May require `xcode-build --install` between MacOS updates)
-- [x] Box Drive (should now be [fixed](https://support.box.com/hc/en-us/community/posts/360051416514/comments/1500000521902))
+- [x] Box Drive ([beta version](https://support.box.com/hc/en-us/community/posts/360051416514/comments/1500000521902) exists. Have not yet tried and the security of MacOS is reduced.)
 - [x] Box Sync (x86, avoid this and use "Box Drive" if you can)
 - [x] Faunus simulation software
 - [x] Apple software (Final cut, compressor, motion, keynote etc.)
@@ -17,6 +17,7 @@ List of tested software on Apple M1. If not otherwise stated, all applications r
 - [x] LibreOffice (x86, `brew install --cask libreoffice`)
 - [x] Emacs (download [here](https://emacsformacosx.com/tips) and see the Tips section for running from command line)
 - [x] Pymol (`conda install -c schrodinger pymol`. Starts a 30 day trial, whereafter a license is required)
+- [ ] Molden (how can this be downloaded? if an x86 executable exists, it should run through Rosetta if X11 is installed)
 
 ## General tips
 
