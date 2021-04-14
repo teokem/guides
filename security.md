@@ -30,10 +30,11 @@ standard. They can also store other information for strong encryption. See [vide
   for work, you can use LU's VPN which further gives access to the Library.
   [ProtonVPN](https://protonvpn.com) is a Swiss based alternative.
 - Avoid companies that live from your data: Facebook, Google, are prime examples. If you don't, **always log out** of your account.
+- Do not use your Google or Facebook login to access other sites.
 - Do not let websites store personal information (address, age, phone number etc.). There are countless examples of databreaches where user information
   has been exposed and sold on auctions.
 - Never give your personal id number!
-- Do not give applications or websites access to your Contact list.
+- Do not give applications or websites access to your contact list.
 - Replacements:
   - Google search → [DuckDuckGo](https://duckduckgo.com)
   - Google mail → [ProtonMail](https://protonmail.com)
@@ -41,3 +42,4 @@ standard. They can also store other information for strong encryption. See [vide
   - Apple Keychain → [Bitwarden](https://bitwarden.com/)
   - Facebook/twitter → [Mastodon](https://joinmastodon.org/) (de-centralized)
   - Browser → [Brave Browser](https://brave.com/)
+  - (Large) file sharing → [Syncthing](https://syncthing.net/)
