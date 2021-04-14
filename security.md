@@ -20,8 +20,9 @@ Here are some tips for security and for keeping your data and personal informati
 
 ### Security Key
 
-Security keys such as [YubiKey](www.yubico.com) is a convenient and very safe way to avoid typing in OTPs as mentioned above. They
-can also store other information for strong encryption. [Video](https://www.youtube.com/watch?v=aAr41uSC4vs) for some inspiration.
+Security keys such as [YubiKey](www.yubico.com) is a convenient and very safe way to avoid typing in OTPs as mentioned above.
+Far from all sites supports this, but they seems to be increasing with the introduction of the [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn)
+standard. They can also store other information for strong encryption. See [video](https://www.youtube.com/watch?v=aAr41uSC4vs) for some inspiration.
 
 ## Privacy
 
