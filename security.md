@@ -36,10 +36,10 @@ standard. They can also store other information for strong encryption. See [vide
 - Never give your personal id number!
 - Do not give applications or websites access to your contact list.
 - Replacements:
-  - Google search → [DuckDuckGo](https://duckduckgo.com)
-  - Google mail → [ProtonMail](https://protonmail.com)
-  - WhatsApp → [Signal.app](https://signal.org)
-  - Apple Keychain → [Bitwarden](https://bitwarden.com/)
+  - Google search → [DuckDuckGo](https://duckduckgo.com) (no tracking)
+  - Google mail → [ProtonMail](https://protonmail.com) (swiss, premium option available)
+  - WhatsApp → [Signal.app](https://signal.org) (non-profit, open source, recommended by Edward Snowden!)
+  - Apple Keychain → [Bitwarden](https://bitwarden.com/) (open source, premium service available)
   - Facebook/twitter → [Mastodon](https://joinmastodon.org/) (de-centralized)
-  - Browser → [Brave Browser](https://brave.com/)
-  - (Large) file sharing → [Syncthing](https://syncthing.net/)
+  - Browser → [Brave Browser](https://brave.com/) (fights digital fingerprinting)
+  - (Large) file sharing → [Syncthing](https://syncthing.net/) (open-source, encrypted, de-centralized)
