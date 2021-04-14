@@ -26,15 +26,17 @@ standard. They can also store other information for strong encryption. See [vide
 
 ## Privacy
 
-- Your online movements is used to profile you to determine your behavior and views. A VPN may reduce tracking and
-  for work, you can use LU's VPN which further gives you access to the Library.
+- Your online movements are stored and used to profile you to determine your behavior and views. A VPN may reduce tracking and
+  for work, you can use LU's VPN which further gives access to the Library.
   [ProtonVPN](https://protonvpn.com) is a Swiss based alternative.
-- Avoid companies that live from your data: Facebook, Google, are a few examples. If you don't, **always log out** of your account.
+- Avoid companies that live from your data: Facebook, Google, are prime examples. If you don't, **always log out** of your account.
 - Do not let websites store personal information (address, age, phone number etc.). There are countless examples of databreaches where user information
   has been exposed and sold on auctions.
 - Never give your personal id number!
+- Do not give applications or websites access to your Contact list.
 - Replacements:
   - Google search → [DuckDuckGo](https://duckduckgo.com)
+  - Google mail → [ProtonMail](https://protonmail.com)
   - WhatsApp → [Signal.app](https://signal.org)
   - Apple Keychain → [Bitwarden](https://bitwarden.com/)
   - Facebook/twitter → [Mastodon](https://joinmastodon.org/) (de-centralized)
