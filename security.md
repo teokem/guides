@@ -20,9 +20,9 @@ Here are some tips for security and for keeping your data and personal informati
 
 ### Security Key
 
-Security keys such as [YubiKey](www.yubico.com) is a convenient and very safe way to avoid typing in OTPs as mentioned above.
-Far from all sites supports this, but they seems to be increasing with the introduction of the [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn)
-standard. They can also store other information for strong encryption. See [video](https://www.youtube.com/watch?v=aAr41uSC4vs) for some inspiration.
+Security keys such as [YubiKey](www.yubico.com) or the open source [Solokey](https://solokeys.com/) is a convenient and safe way to avoid typing in OTPs as mentioned above.
+Far from all sites support this, but they seem to be increasing due to the [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn)
+standard. Security keys can also store other information for strong encryption. See [video](https://www.youtube.com/watch?v=aAr41uSC4vs) for some inspiration.
 
 ## Privacy
 
@@ -35,11 +35,13 @@ standard. They can also store other information for strong encryption. See [vide
   has been exposed and sold on auctions.
 - Never give your personal id number!
 - Do not give applications or websites access to your contact list.
-- Replacements:
-  - Google search → [DuckDuckGo](https://duckduckgo.com) (no tracking)
-  - Google mail → [ProtonMail](https://protonmail.com) (swiss, premium option available)
-  - WhatsApp → [Signal.app](https://signal.org) (non-profit, open source, recommended by Edward Snowden!)
-  - Apple Keychain → [Bitwarden](https://bitwarden.com/) (open source, premium service available)
+- Possible replacements:
+  - Google search → [DuckDuckGo](https://duckduckgo.com) or [Startpage](https://www.startpage.com/) (no tracking)
+  - Google mail → [ProtonMail](https://protonmail.com) or [Tutanota](https://tutanota.com/)
+  - WhatsApp → [Signal.app](https://signal.org) (non-profit, open source, used by Edward Snowden!)
+  - Apple Keychain → [Bitwarden](https://bitwarden.com/) (open source, premium service available, ["zero-trust"](https://en.wikipedia.org/wiki/Zero_trust_security_model))
   - Facebook/twitter → [Mastodon](https://joinmastodon.org/) (de-centralized)
   - Browser → [Brave Browser](https://brave.com/) (fights digital fingerprinting)
   - (Large) file sharing → [Syncthing](https://syncthing.net/) (open-source, encrypted, de-centralized)
+  - Box/Dropbox → [Mega.io](https://mega.io/) (20 GB free, open-source, end-to-end encrypted, ["zero-trust"](https://en.wikipedia.org/wiki/Zero_trust_security_model))
+
