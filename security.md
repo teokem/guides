@@ -35,10 +35,11 @@ standard. Security keys can also store other information for strong encryption. 
   has been exposed and sold on auctions.
 - Never give your personal id number!
 - Do not give applications or websites access to your contact list.
+- If you believe your privacy is safe just because you use end-to-end encryption in e.g. WhatsApp, [think again!](https://www.globalviews360.com/articles/whatsapps-new-privacy-policy-collecting-metadata-and-its-implications)
 - Possible replacements:
   - Google search → [DuckDuckGo](https://duckduckgo.com) or [Startpage](https://www.startpage.com/) (no tracking)
   - Google mail → [ProtonMail](https://protonmail.com) or [Tutanota](https://tutanota.com/)
-  - WhatsApp → [Signal.app](https://signal.org) (non-profit, open source, used by Edward Snowden!)
+  - WhatsApp → [Signal.app](https://signal.org) (non-profit, open source, used by Edward Snowden!).
   - Apple Keychain → [Bitwarden](https://bitwarden.com/) (open source, premium service available, ["zero-trust"](https://en.wikipedia.org/wiki/Zero_trust_security_model))
   - Facebook/twitter → [Mastodon](https://joinmastodon.org/) (de-centralized)
   - Browser → [Brave Browser](https://brave.com/) (fights digital fingerprinting)
