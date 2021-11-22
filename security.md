@@ -46,3 +46,6 @@ standard. Security keys can also store other information for strong encryption. 
   - (Large) file sharing → [Syncthing](https://syncthing.net/) (open-source, encrypted, de-centralized)
   - Box/Dropbox → [Mega.io](https://mega.io/) (20 GB free, open-source, end-to-end encrypted, ["zero-trust"](https://en.wikipedia.org/wiki/Zero_trust_security_model))
 
+## More information
+
+This document is only a very brief set of recommendations. For much more information, see _e.g._ EFF's [Surveillance Self Defence Guide](https://ssd.eff.org)
