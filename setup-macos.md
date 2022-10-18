@@ -31,6 +31,10 @@ Instructions for setting up new macOS system at teokem; please follow in the pre
 2. Once installed, accept all software updates if any, and also allow
    office to automatically download updates.
 
+## Endnote
+
+Download the LU licensed version [here](https://program.ldc.lu.se/Download) (look under "Alfasoft").
+
 ## Apple's developer tools
 
 This is needed to further install compilers (C++, fortran etc.) and a large
