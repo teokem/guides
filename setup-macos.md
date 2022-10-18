@@ -33,7 +33,7 @@ Instructions for setting up new macOS system at teokem; please follow in the pre
 
 ## Endnote
 
-Download the LU licensed version [here](https://program.ldc.lu.se/Download) (look under "Alfasoft").
+Download the LU licensed version [here](https://program.ldc.lu.se) (look under "Alfasoft").
 
 ## Apple's developer tools
 
@@ -107,16 +107,15 @@ Login and download using LUCAT credentials at http://program.ddg.lth.se
 
 The large Canon printer on 2nd floor, shared between physical chemistry and theoretical chemistry, can be used only through the LU printing system PaperCut [(instructions here)](http://www.print.lu.se/english/papercut/). For every print you will need to use your access card at the printer. Employed staff pay no charge.
 
-### HP LaserJet 500 (3rd floor)
+### Brother DCP-L3550CDW (3rd floor)
 
 1. Make sure you're logged into Apple App Store (top left corner menu item in Finder) using your Apple ID.
-   This step may be required for system preferences to automatically download the required drivers.
+   This step may be required for system preferences to automatically download the required drivers. You must also
+   be on the local network (Eduroam will not work).
 
-2. Add manually in manually in System Preferences->Printers->Address:
+2. Add manually in System Preferences->Printers->Address:
 
-       http://130.235.1.116 (HP JetDirect)
-       
-3. Add-ons: Duplex unit (twosided printing)
+       http://130.235.1.39 (AirPrint)
 
 ## More help?
 
