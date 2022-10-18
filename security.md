@@ -29,13 +29,13 @@ standard. Security keys can also store other information for strong encryption. 
 - Your online movements are stored and used to profile you to determine your behavior and views. A VPN may reduce tracking and
   for work, you can use LU's VPN which further gives access to the Library.
   [ProtonVPN](https://protonvpn.com) is a Swiss based alternative.
-- Avoid companies that live from your data: Facebook, Google, are prime examples. If you don't, **always log out** of your account.
+- Avoid companies that live from your data: Facebook, Google, are prime examples.
+  **always log out** of your account when not using the service.
 - Do not use your Google or Facebook login to access other sites.
-- Do not let websites store personal information (address, age, phone number etc.). There are countless examples of databreaches where user information
-  has been exposed and sold on auctions.
-- Never give your personal id number!
+- Do not let websites store personal information (address, age, phone number etc.). There are many examples of databreaches where user information has been exposed and sold on auctions.
+- Never give your personal id number.
 - Do not give applications or websites access to your contact list.
-- If you believe your privacy is safe just because you use end-to-end encryption in e.g. WhatsApp, [think again!](https://www.globalviews360.com/articles/whatsapps-new-privacy-policy-collecting-metadata-and-its-implications)
+- If you believe your privacy is safe just because you use end-to-end encryption in e.g. WhatsApp, [think again].(https://www.globalviews360.com/articles/whatsapps-new-privacy-policy-collecting-metadata-and-its-implications)
 - Possible replacements:
   - Google search → [DuckDuckGo](https://duckduckgo.com) or [Startpage](https://www.startpage.com/) (no tracking)
   - Google mail → [ProtonMail](https://protonmail.com) or [Tutanota](https://tutanota.com/)
