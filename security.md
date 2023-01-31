@@ -35,7 +35,7 @@ standard. Security keys can also store other information for strong encryption. 
 - Do not let websites store personal information (address, age, phone number etc.). There are many examples of databreaches where user information has been exposed and sold on auctions.
 - Never give your personal id number.
 - Do not give applications or websites access to your contact list.
-- If you believe your privacy is safe just because you use end-to-end encryption in e.g. WhatsApp, [think again].(https://www.globalviews360.com/articles/whatsapps-new-privacy-policy-collecting-metadata-and-its-implications)
+- If you believe your privacy is safe just because you use end-to-end encryption in e.g. WhatsApp, [think again](https://www.globalviews360.com/articles/whatsapps-new-privacy-policy-collecting-metadata-and-its-implications)
 - Possible replacements:
   - Google search → [DuckDuckGo](https://duckduckgo.com) or [Startpage](https://www.startpage.com/) (no tracking)
   - Google mail → [ProtonMail](https://protonmail.com) or [Tutanota](https://tutanota.com/)
