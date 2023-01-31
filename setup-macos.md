@@ -59,23 +59,17 @@ Homebrew is a package manager for installing unix command line tools and require
 2. Search and install for packages using `brew search <package>` and `brew install <package>`
 
 Brew can also be used to install MacOS applications such as Firefox, Skype, Spotify etc.
-Some examples which will install a C++ compiler, XMGrace, LaTeX, Firefox, X11, Zoom
+Some examples:
 
 ~~~ bash
-brew install gcc grace coreutils
-brew cask install gfortran mactex firefox xquartz zoomus
+brew install gcc grace coreutils gfortran
+brew install --cask mactex firefox xquartz zoomus bitwarden mambaforge
 ~~~
 
 ## Python
 
-Python is already installed on macOS, but a convenient way of managing packages and environments is via _Conda_.
-Install via `brew install mambaforge` as shown above, or download from [https://conda.io/miniconda.html](https://github.com/conda-forge/miniforge#mambaforge) and install from a Terminal:
-
-~~~ bash
-chmod a+x Mambaforge-MacOSX-arm64.sh # make executable
-./Miniconda3-latest-MacOSX-x86_64.sh # start; follow instructions.
-~~~
-
+Python is already installed on macOS, but a convenient way of managing packages and environments is via [Conda](https://github.com/conda-forge/miniforge#mambaforge).
+Install via `brew install mambaforge` as shown above.
 You may now install packages like this:
 
 ~~~ bash
@@ -88,19 +82,17 @@ Box is a service very similar to DropBox for online storage. By default LU emplo
 
 To get started with Box:
 
-1. Login to Box with LUCAT credentials from https://lu.account.box.com/login
-2. Navigate to the "Apps" menu (top, right corner); then look for "Box Sync for Mac". Alternatively, this [link](https://app.box.com/settings/sync) may take you there directly.
-3. Download, install, then open Box Sync.
-4. Login with your university email and follow the instructions.
+1. Install with `brew install --cask box-sync`
+2. Open _Box Sync_ and login with your university email and follow the instructions.
 
-Once installed, you will have a new folder called "Box Sync" in your top-level user directory. All files placed here will be automatically synced to Box and _vice versa_. For example, you could install Box Sync on multiple computers and they will all be synched automatically. From the Box website you have access to version history of your files as well as the possibility to restore deleted files.
+Once installed, you will have a new folder called _Box Sync_ in your top-level user directory. All files placed here will be automatically synced to Box and _vice versa_. For example, you could install Box Sync on multiple computers and they will all be synched automatically. From the Box website you have access to version history of your files as well as the possibility to restore deleted files.
 
 Finally, Box integrates with Microsoft's Office 360 (see above) and you can edit Word, Excell files etc. on Box directly from a web-browser without any additional software installed (for example from Linux). 
 
 ## Free access to Matlab, Maple, Comsol etc.
 
 - Login and download using LUCAT credentials at http://program.ddg.lth.se
-- Get the free Github Student or Teacher pack (https://education.github.com/pack).
+- Get the free Github educational pack (https://education.github.com/pack).
 - [JetBrains](https://www.jetbrains.com/education/) professional coding IDE's are available to students and teachers.
 
 ## Printers
