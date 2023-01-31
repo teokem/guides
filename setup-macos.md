@@ -68,18 +68,18 @@ brew cask install gfortran mactex firefox xquartz zoomus
 
 ## Python
 
-Python is already installed on macOS, but a convenient way of managing packages and environments is via _Anaconda_.
-Install via `brew` as shown above, or download from https://conda.io/miniconda.html (Python 3+, 64-bit) and install from a Terminal:
+Python is already installed on macOS, but a convenient way of managing packages and environments is via _Conda_.
+Install via `brew install mambaforge` as shown above, or download from [https://conda.io/miniconda.html](https://github.com/conda-forge/miniforge#mambaforge) and install from a Terminal:
 
 ~~~ bash
-chmod a+x ./Miniconda3-latest-MacOSX-x86_64.sh # make executable
+chmod a+x Mambaforge-MacOSX-arm64.sh # make executable
 ./Miniconda3-latest-MacOSX-x86_64.sh # start; follow instructions.
 ~~~
 
 You may now install packages like this:
 
 ~~~ bash
-conda install notebook jupyter matplotlib scipy pandas
+mamba install notebook jupyter matplotlib scipy pandas
 ~~~
 
 ## Cloud storage and backup:
