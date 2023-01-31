@@ -99,7 +99,9 @@ Finally, Box integrates with Microsoft's Office 360 (see above) and you can edit
 
 ## Free access to Matlab, Maple, Comsol etc.
 
-Login and download using LUCAT credentials at http://program.ddg.lth.se
+- Login and download using LUCAT credentials at http://program.ddg.lth.se
+- Get the free Github Student or Teacher pack (https://education.github.com/pack).
+- [JetBrains](https://www.jetbrains.com/education/) professional coding IDE's are available to students and teachers.
 
 ## Printers
 
