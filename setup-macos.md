@@ -69,7 +69,7 @@ brew install --cask mactex firefox xquartz zoomus bitwarden mambaforge
 ## Python
 
 Python is already installed on macOS, but a convenient way of managing packages and environments is via [Conda](https://github.com/conda-forge/miniforge#mambaforge).
-Install via `brew install mambaforge` as shown above.
+Install via `brew install --cask mambaforge` as shown above.
 You may now install packages like this:
 
 ~~~ bash
