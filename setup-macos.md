@@ -111,6 +111,11 @@ The large Canon printer on 2nd floor, shared between physical chemistry and theo
 
        http://130.235.1.39 (AirPrint)
 
+## Erase and Reset
+
+If you no longer need your mac, make sure to delete all contents by following these instructions: https://support.apple.com/en-gb/HT201065
+
+
 ## More help?
 
 Once the above is complete, contact M.L. if you need additional help.
