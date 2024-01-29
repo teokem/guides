@@ -1,24 +1,27 @@
 # INSTRUCTIONS FOR SETTING UP COMPUTERS
 
-Instructions for setting up new macOS system at teokem; please follow in the presented order.
+Instructions for setting up new macOS system at compchem; please follow in the presented order.
 
 ## Basic setup and updating
 
-1. Power on the laptop and follow instructions for creating a user account. You should connect to the internet through Eduroam, using your LUCAT id (remember to end your id with `@lu.se` which enables you to connect from most universities in the World).
+1. Power on the laptop and follow instructions for creating a user account.
+   You should connect to the internet through Eduroam, using your LUCAT id.
+   Remember to end your id with `@lu.se` which enables you to connect from most universities in the World.
 
-2. When asked, create an iCloud account if you do not already
-   have one. This is required to install _e.g._ Apple's developer tools etc. You may be forced to enter a credit card number, but you can be remove it later.
+3. When asked, create an iCloud account if you do not already have one.
+   This is required to install (free) applications from Apple's App Store.
+   You may be forced to enter a credit card number, but you can be remove it later.
 
-3. Once the initial setting up is finished, go to "App Store" (top-left corner)
+4. Once the initial set up is finished, go to **App Store** (top-left corner)
    and install all updates showing up in the "Update" section.
 
-4. Go to system preferences, then "Software update" and allow automatic
-   upgrades (or as a minimum allow security updates).
+5. Go to system preferences, then **Software update** and allow automatic
+   upgrades of security and app updates (it is not recommended to automatically upgrade the OS version).
    
-5. For laptops it's a good idea to encrypt your user data in case it gets stolen. Enable this in System Preferences -->
+6. For laptops it's a good idea to encrypt your user data in case it gets stolen. Enable this in System Preferences -->
    Security & Privacy --> FileVault.
    
-6. You may want to disable Apple's file version control which tend to take up space.
+7. You may want to disable Apple's file version control which tend to take up space.
    Go to System Preferences --> General and tick (☑) _Ask to keep changes when closing documents_.
 
 ## Microsoft Office Apps
@@ -35,24 +38,14 @@ Instructions for setting up new macOS system at teokem; please follow in the pre
 
 Download the LU licensed version [here](https://program.ldc.lu.se) (look under "Alfasoft").
 
-## Apple's developer tools
+## Apple's Command Line Tools (CLT)
 
-This is needed to further install compilers (C++, fortran etc.) and a large
-variety of UNIX command line tools.
-
-1. Install Xcode from the App Store (top-left corner in Finder) and wait for it to finish (may take a while!)
-
-2. Open a Terminal (`Applications/Utilities/Terminal.app`) and enter
-   the following which will download and install additional tools:
-   ~~~ bash
-   xcode-select --install
-   ~~~
-
-3. Open Xcode (`Applications/Xcode.app`) and accept the licence agreement.
+This is needed for homebrew and other development tools. Open a Terminal (`Applications/Utilities/Terminal.app`) and run
+`xcode-select --install` to download and install.
 
 ## Homebrew package manager
 
-Homebrew is a package manager for installing unix command line tools and require Xcode (see above).
+Homebrew is a package manager for installing unix command line tools and require Apple's CLT (see above).
 
 1. Install by running a single command line, pasted from the Homebrew frontpage, https://brew.sh
 
@@ -92,7 +85,7 @@ Finally, Box integrates with Microsoft's Office 360 (see above) and you can edit
 ## Free access to Matlab, Maple, Comsol etc.
 
 - Login and download using LUCAT credentials at http://program.ddg.lth.se
-- Get the free Github educational pack (https://education.github.com/pack).
+- Get the free Github educational pack (https://education.github.com/pack), incl. Github Copilot.
 - [JetBrains](https://www.jetbrains.com/education/) professional coding IDE's are available to students and teachers.
 
 ## Printers
@@ -105,7 +98,7 @@ The large Canon printer on 2nd floor, shared between physical chemistry and theo
 
 1. Make sure you're logged into Apple App Store (top left corner menu item in Finder) using your Apple ID.
    This step may be required for system preferences to automatically download the required drivers. You must also
-   be on the local network (Eduroam will not work).
+   be on the local network (Eduroam does not work!).
 
 2. Add manually in System Preferences->Printers->Address:
 
