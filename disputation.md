@@ -19,3 +19,5 @@ Is done by Ulf or Mikael, who will need the following:
    Must be filled by *opponent, committee members, suppleant.* Please include the form when requesting CV's.
 9. Motivation text for choice of opponent, committee and suppleant (text snippets in an email preferred).
 10. Statement about conflicts of interest with respect to the opponent and committee.
+
+The online system for registering (Ulf and Mikael) is https://fukurser.lth.se/disputation.
