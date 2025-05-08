@@ -8,7 +8,7 @@ Here are some tips for security and for keeping your data and personal informati
 
 - Use unique passwords and forget about remembering them: use a password manager!
   - [Bitwarden](https://bitwarden.com/) is open source; multi-platform; multi-browser. This means your passwords are not stuck
-    to a particular browser, account, or operating system (Apple Keychain).
+    to a particular browser, account, or operating system.
     
 ### Two-factor authentication (2fa)
 
@@ -20,7 +20,7 @@ Here are some tips for security and for keeping your data and personal informati
 
 ### Security Key
 
-Security keys such as [YubiKey](www.yubico.com) or the open source [Solokey](https://solokeys.com/) is a convenient and safe way to avoid typing in OTPs as mentioned above.
+Security keys such as [YubiKey](www.yubico.com) or the open source [Solokey](https://solokeys.com/) are convenient and safe ways to avoid typing in OTPs as mentioned above.
 Far from all sites support this, but they seem to be increasing due to the [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn)
 standard. Security keys can also store other information for strong encryption. See [video](https://www.youtube.com/watch?v=aAr41uSC4vs) for some inspiration.
 
