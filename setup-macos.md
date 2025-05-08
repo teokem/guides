@@ -56,17 +56,17 @@ Some examples:
 
 ~~~ bash
 brew install gcc grace coreutils gfortran
-brew install --cask mactex firefox xquartz zoomus bitwarden mambaforge
+brew install --cask mactex firefox xquartz zoomus bitwarden miniforge
 ~~~
 
 ## Python
 
-Python is already installed on macOS, but a convenient way of managing packages and environments is via [Conda](https://github.com/conda-forge/miniforge#mambaforge).
-Install via `brew install --cask mambaforge` as shown above.
+Python is already installed on macOS, but a convenient way of managing packages and environments is via [Conda](https://github.com/conda-forge/miniforge).
+Install via `brew install --cask miniforge` as shown above.
 You may now install packages like this:
 
 ~~~ bash
-mamba install notebook jupyter matplotlib scipy pandas
+conda install notebook jupyter matplotlib scipy pandas
 ~~~
 
 ## Cloud storage and backup:
